@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-09-18T17:20:00+08:00",
+  "generatedAt": "2026-09-18T18:00:00+08:00",
   "period": "2026-09-08—2026-09-15",
   "timezone": "Asia/Shanghai",
-  "items": [],
-  "reminders": [],
+  "items": [
+    {
+      "region": "美国",
+      "title": "法院暂缓实施F、J签证固定停留期限新规",
+      "summary": "美国马萨诸塞州联邦地区法院于9月14日签发全国性初步禁令，暂缓原定9月15日生效的DHS新规。禁令期间，F、J人员继续按D/S规则管理；这属于暂缓实施，并非永久撤销。",
+      "publisher": "布朗大学国际学生与学者服务处",
+      "publishedAt": "2026-09-14",
+      "url": "https://isss.brown.edu/news/2026-09-14/dhs-final-rule-postponed",
+      "status": "官方确认",
+      "policyStatus": "全国性初步禁令生效，原规则继续执行；并非永久撤销",
+      "impact": "暂时无需因原定9月15日新规立即申请延长停留或调整转学、项目变更，但应持续查看所在学校国际学生办公室通知。",
+      "crossCheck": "https://www.cmu.edu/oie/news-and-events/2026-2027/september/ds-rule-postponed.html"
+    },
+    {
+      "region": "新加坡",
+      "title": "中国留服重新公告新加坡私立教育机构认证范围",
+      "summary": "教育部留学服务中心9月14日发布新版认证范围。合作办学课程不能只看EduTrust，还须同时核对实际颁证院校、新加坡教学机构和可受理认证起始时间。",
+      "publisher": "教育部留学服务中心",
+      "publishedAt": "2026-09-14",
+      "url": "https://www.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026091416463289686/index.html",
+      "status": "官方确认",
+      "policyStatus": "正式公告，当前有效",
+      "impact": "申请新加坡私立院校或第三国大学新加坡合作课程时，应保存录取通知、注册信息、学习地点、课程名称和颁证主体等材料。"
+    }
+  ],
+  "reminders": [
+    {
+      "date": "2026-09-21",
+      "title": "中国香港｜内地大学升读资助申请截止",
+      "audience": "符合条件、在217所指定内地院校修读本科的香港学生；属于申请截止提醒，非本期新增。",
+      "url": "https://www.edb.gov.hk/en/edu-system/postsecondary/policy-doc/musss/index.html",
+      "status": "官方确认"
+    },
+    {
+      "date": "2026-10-15 18:00（英国时间）",
+      "title": "英国｜牛津大学2027本科申请截止",
+      "audience": "申请牛津大学2027年本科入学的学生；部分专业另有入学考试及11月10日书面作品要求。",
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/admissions-timeline",
+      "status": "官方确认"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "新西兰｜毕业后工作签证调整开放申请",
+      "audience": "符合条件的NZQCF 5—7级课程毕业生；属于既有政策生效提醒，并非9月新增。",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+      "status": "官方确认"
+    }
+  ],
   "leads": [],
-  "coverageNote": "统计区间已调整为以上一个周二至本周二为节点。本期资讯尚未执行联网逐条核验，因此暂不展示虚构内容；完成正式检索后将按国家/地区呈现原文、日期、状态与核验记录。"
+  "coverageNote": "本次覆盖中国内地、中国香港、美国、英国、加拿大、澳大利亚、新西兰、新加坡、日本等主要目的地。本期仅收录2项符合区间内首次发布或实质更新、与国际学生直接相关且原文可核实的重要资讯；其余临近事项单列为提醒。"
 }
