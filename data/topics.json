@@ -39,6 +39,36 @@
   ],
   "topics": [
     {
+      "id": "us-ds-injunction", "topic": "美国F/J签证新规为何在生效前一天突然暂停？", "title": "美国F/J签证新规生效前突然暂停：D/S规则现在怎么执行？", "angle": "面向美国留学生及家长，解释全国性初步禁令、D/S规则，以及“暂缓”为什么不等于“撤销”。", "region": "美国", "source": "布朗大学国际学生与学者服务处", "url": "https://isss.brown.edu/news/2026-09-14/dhs-final-rule-postponed", "verified": true, "newsTopic": true, "topicType": "时事", "keywords": ["美国", "F签证", "J签证", "D/S"], "score": 95, "heat": 94, "relevance": 96, "anxiety": 95, "freshness": 98, "local": 70, "trend": "↑ 政策突发"
+    },
+    {
+      "id": "us-ds-actions", "topic": "D/S规则继续有效：转学、延期、OPT和出入境该怎么安排？", "title": "D/S规则继续有效：转学、延期、OPT和出入境行动清单", "angle": "面向美国在读生，按学籍、转学、项目延期、OPT和出入境等场景整理当前行动建议。", "region": "美国", "source": "卡内基梅隆大学国际教育办公室", "url": "https://www.cmu.edu/oie/news-and-events/2026-2027/september/ds-rule-postponed.html", "verified": true, "newsTopic": true, "topicType": "时事", "keywords": ["美国", "D/S", "OPT", "转学"], "score": 93, "heat": 90, "relevance": 97, "anxiety": 94, "freshness": 97, "local": 68, "trend": "↑ 强实用"
+    },
+    {
+      "id": "sg-edutrust", "topic": "新加坡私校学历认证，为什么不能只看EduTrust？", "title": "申请新加坡私校，为什么有EduTrust还不够？认证要核对这3项", "angle": "讲清实际颁证院校、新加坡教学机构和可受理认证起始时间三重核对逻辑。", "region": "新加坡", "source": "教育部留学服务中心", "url": "https://www.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026091416463289686/index.html", "verified": true, "newsTopic": true, "topicType": "时事", "keywords": ["新加坡", "私立院校", "EduTrust", "学历认证"], "score": 94, "heat": 88, "relevance": 98, "anxiety": 92, "freshness": 98, "local": 75, "trend": "↑ 认证新规"
+    },
+    {
+      "id": "sg-course-check", "topic": "新加坡合作办学项目怎么查认证？一张表教你避坑", "title": "新加坡合作办学项目怎么查认证？录取前先完成这4步", "angle": "面向准备申请私立院校及第三国合作课程的学生和家长，提供录取前核验流程与材料保存清单。", "region": "新加坡", "source": "教育部留学服务中心", "url": "https://www.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026091416463289686/index.html", "verified": true, "newsTopic": true, "topicType": "时事", "keywords": ["新加坡", "合作办学", "认证", "避坑"], "score": 91, "heat": 84, "relevance": 98, "anxiety": 93, "freshness": 96, "local": 73, "trend": "↑ 家长刚需"
+    },
+    {
+      "id": "nz-work-visa-factcheck", "topic": "新西兰“6个月毕业工签”不是9月新政：真正生效时间与资格", "title": "新西兰6个月毕业工签刷屏，但它并不是9月新政", "angle": "面向新西兰在读生与近期毕业生，纠正旧闻包装，拆解11月16日开放时间及适用资格。", "region": "新西兰", "source": "新西兰移民局", "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/", "verified": true, "newsTopic": true, "topicType": "时事", "keywords": ["新西兰", "毕业工签", "辟谣"], "score": 88, "heat": 87, "relevance": 92, "anxiety": 86, "freshness": 82, "local": 65, "trend": "→ 旧闻纠偏"
+    },
+    {
+      "id": "evergreen-joint-program-check", "topic": "海外合作办学项目怎么查：学校、课程、教学地点和颁证主体核验指南", "title": "海外合作办学项目靠谱吗？录取前先完成这4步核验", "angle": "为正在选校的学生和家长制作学校、课程、教学地点及颁证主体四步核验清单。", "region": "综合", "source": "官方认证机构入口", "url": "https://www.cscse.edu.cn/", "verified": true, "newsTopic": true, "topicType": "常青", "keywords": ["合作办学", "学历认证", "选校"], "score": 89, "heat": 78, "relevance": 97, "anxiety": 90, "freshness": 76, "local": 74, "trend": "→ 长期实用"
+    },
+    {
+      "id": "evergreen-policy-status", "topic": "留学政策出现提案、终稿、暂缓、撤销，分别意味着什么？", "title": "看到“留学新政”先别慌：提案、终稿、暂缓、撤销完全不同", "angle": "帮助读者识别政策所处阶段，避免把媒体预测、法院暂缓或讨论稿误读为已经生效。", "region": "综合", "source": "政策阅读方法", "url": "https://www.uscis.gov/", "verified": true, "newsTopic": true, "topicType": "常青", "keywords": ["留学政策", "提案", "暂缓", "撤销"], "score": 87, "heat": 79, "relevance": 95, "anxiety": 89, "freshness": 74, "local": 70, "trend": "→ 科普刚需"
+    },
+    {
+      "id": "evergreen-undergrad-timeline", "topic": "本科申请时间轴：从选校、语言考试到推荐信和递交", "title": "本科申请别等到高三才开始：一张时间轴倒推所有准备节点", "angle": "面向高二至高三家庭，按申请季倒推选校、考试、活动、推荐信、文书及递交节点。", "region": "综合", "source": "院校申请信息", "url": "https://www.ucas.com/", "verified": true, "newsTopic": true, "topicType": "常青", "keywords": ["本科申请", "时间轴", "高二", "高三"], "score": 90, "heat": 83, "relevance": 98, "anxiety": 92, "freshness": 78, "local": 80, "trend": "↑ 申请季"
+    },
+    {
+      "id": "evergreen-certification-materials", "topic": "留学录取后必须保存哪些材料，才能降低学历认证风险？", "title": "别等毕业才找材料：这些留学文件建议从录取开始保存", "angle": "覆盖录取信、注册证明、成绩单、签证、出入境及实际学习地点记录，形成长期材料清单。", "region": "综合", "source": "教育部留学服务中心", "url": "https://www.cscse.edu.cn/", "verified": true, "newsTopic": true, "topicType": "常青", "keywords": ["学历认证", "材料保存", "录取"], "score": 86, "heat": 75, "relevance": 96, "anxiety": 88, "freshness": 73, "local": 76, "trend": "→ 长期收藏"
+    },
+    {
+      "id": "evergreen-poststudy-visa-compare", "topic": "毕业后工作签证怎么比较：不要只看“最长几年”", "title": "毕业工签不是越长越好：真正要比较的是这6个条件", "angle": "从课程等级、专业限制、申请窗口、雇主限制、家属权利和转长期签证路径进行横向比较。", "region": "综合", "source": "各目的地移民部门", "url": "https://www.immigration.govt.nz/", "verified": true, "newsTopic": true, "topicType": "常青", "keywords": ["毕业工签", "留学目的地", "就业"], "score": 85, "heat": 82, "relevance": 93, "anxiety": 86, "freshness": 75, "local": 67, "trend": "→ 决策型选题"
+    },
+    {
       "id": "hk-application",
       "topic": "香港高校申请季开启，家长最容易错过哪些关键节点？",
       "title": "27Fall港校申请陆续开启：这5个关键节点，错过可能要再等一年",
