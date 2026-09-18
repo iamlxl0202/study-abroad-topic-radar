@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-09-18T08:51:57.785Z",
+  "sources": [
+    {
+      "name": "TrendRadar",
+      "icon": "TR",
+      "description": "跨平台热点监测、关键词筛选与趋势追踪。",
+      "type": "热点发现",
+      "status": "已接入"
+    },
+    {
+      "name": "DailyHotApi",
+      "icon": "DH",
+      "description": "聚合微博、知乎、百度、头条等公开热榜。",
+      "type": "热榜数据",
+      "status": "已接入"
+    },
+    {
+      "name": "RSSHub / 官方网站",
+      "icon": "RS",
+      "description": "跟踪院校、教育部门和签证政策页面。",
+      "type": "官方信源",
+      "status": "待配置"
+    },
+    {
+      "name": "公众号竞品数据",
+      "icon": "WX",
+      "description": "记录竞品标题、阅读互动及内容表现。",
+      "type": "竞品分析",
+      "status": "待授权"
+    },
+    {
+      "name": "AI 选题引擎",
+      "icon": "AI",
+      "description": "完成五维评分、切入角度和标题生成。",
+      "type": "内容决策",
+      "status": "规则版运行中"
+    }
+  ],
+  "topics": [
+    {
+      "id": "hk-application",
+      "topic": "香港高校申请季开启，家长最容易错过哪些关键节点？",
+      "title": "27Fall港校申请陆续开启：这5个关键节点，错过可能要再等一年",
+      "angle": "用明确时间线承接申请季焦虑，整理开放申请、语言成绩、材料准备及轮次差异，适合官方账号发布服务型长文。",
+      "region": "中国香港",
+      "source": "院校官网",
+      "url": "https://www.hku.hk/",
+      "verified": true,
+      "keywords": [
+        "香港",
+        "申请",
+        "时间线"
+      ],
+      "score": 92,
+      "heat": 86,
+      "relevance": 98,
+      "anxiety": 94,
+      "freshness": 96,
+      "local": 78,
+      "trend": "↑ 持续升温"
+    },
+    {
+      "id": "ielts-plan",
+      "topic": "大三才开始准备雅思，真的来得及申请吗？",
+      "title": "大三才开始考雅思晚不晚？不同申请地区的时间账，一次算清",
+      "angle": "从学生常见的拖延焦虑切入，给出不同地区、不同轮次的准备节奏，兼顾实用性与咨询转化。",
+      "region": "综合",
+      "source": "编辑选题库",
+      "url": "https://www.ielts.org/",
+      "verified": true,
+      "keywords": [
+        "雅思",
+        "时间规划",
+        "大三"
+      ],
+      "score": 88,
+      "heat": 76,
+      "relevance": 96,
+      "anxiety": 95,
+      "freshness": 74,
+      "local": 82,
+      "trend": "↑ 高讨论"
+    },
+    {
+      "id": "double-non-hk",
+      "topic": "双非背景申请港硕，真正拉开差距的是什么？",
+      "title": "双非本科还能申港硕吗？招生官真正关注的，不只是一张成绩单",
+      "angle": "避免简单制造背景焦虑，拆解GPA、专业匹配、语言、实习科研与申请策略的实际权重。",
+      "region": "中国香港",
+      "source": "编辑选题库",
+      "url": "https://www.ugc.edu.hk/",
+      "verified": true,
+      "keywords": [
+        "双非",
+        "港硕",
+        "背景提升"
+      ],
+      "score": 86,
+      "heat": 82,
+      "relevance": 94,
+      "anxiety": 91,
+      "freshness": 70,
+      "local": 76,
+      "trend": "→ 稳定高热"
+    },
+    {
+      "id": "uk-cost",
+      "topic": "英国留学预算变化，普通家庭该怎样重新规划？",
+      "title": "英国留学一年要准备多少钱？别只算学费，这4笔支出更容易被低估",
+      "angle": "以家庭决策最关心的总成本为入口，区分伦敦与非伦敦、学费与生活费，并强调以学校和官方信息为准。",
+      "region": "英国",
+      "source": "英国政府",
+      "url": "https://www.gov.uk/student-visa/money",
+      "verified": true,
+      "keywords": [
+        "英国",
+        "预算",
+        "学费"
+      ],
+      "score": 84,
+      "heat": 80,
+      "relevance": 92,
+      "anxiety": 88,
+      "freshness": 78,
+      "local": 72,
+      "trend": "↑ 关注增加"
+    },
+    {
+      "id": "dse-route",
+      "topic": "DSE不只是香港升读路线，适合什么样的孩子？",
+      "title": "不是所有孩子都适合DSE：选择前，家长先看懂这4个判断标准",
+      "angle": "从适配性而非单纯优势宣传出发，解释课程基础、语言能力、目标地区和家庭规划。",
+      "region": "中国香港",
+      "source": "香港考评局",
+      "url": "https://www.hkeaa.edu.hk/",
+      "verified": true,
+      "keywords": [
+        "DSE",
+        "升读",
+        "家长"
+      ],
+      "score": 82,
+      "heat": 72,
+      "relevance": 95,
+      "anxiety": 84,
+      "freshness": 73,
+      "local": 86,
+      "trend": "→ 家长刚需"
+    },
+    {
+      "id": "aus-visa",
+      "topic": "澳洲学生签证材料准备，哪些细节最容易影响进度？",
+      "title": "准备澳洲学生签证，这些材料别等到递交前才发现缺了",
+      "angle": "结合官方清单做材料核对型内容，强调政策和个案差异，不承诺审理结果。",
+      "region": "澳大利亚",
+      "source": "澳大利亚内政部",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "verified": true,
+      "keywords": [
+        "澳洲",
+        "学生签证",
+        "材料"
+      ],
+      "score": 79,
+      "heat": 68,
+      "relevance": 90,
+      "anxiety": 82,
+      "freshness": 80,
+      "local": 66,
+      "trend": "↑ 申请提醒"
+    }
+  ]
+}

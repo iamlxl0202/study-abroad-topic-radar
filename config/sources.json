@@ -1,0 +1,9 @@
+{
+  "hotPlatforms": ["weibo", "zhihu", "baidu", "toutiao", "thepaper", "36kr"],
+  "keywords": ["留学", "大学", "研究生", "硕士", "本科", "雅思", "签证", "DSE", "香港", "澳门", "英国", "美国", "澳洲", "加拿大", "国际学校", "高考", "中考", "申请"],
+  "officialFeeds": [
+    {"name":"香港教育局","region":"中国香港","url":"https://www.edb.gov.hk/tc/whats-new/index.html"},
+    {"name":"英国政府学生签证","region":"英国","url":"https://www.gov.uk/student-visa"},
+    {"name":"澳大利亚内政部学生签证","region":"澳大利亚","url":"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"}
+  ]
+}

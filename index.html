@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="广州新东方留学公众号热点监测与爆款选题工作台">
+  <title>留学选题雷达｜广州新东方留学</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2300a56a'/%3E%3Cpath d='M12 35a20 20 0 0 1 40 0M19 35a13 13 0 0 1 26 0M27 35a5 5 0 0 1 10 0' fill='none' stroke='white' stroke-width='5' stroke-linecap='round'/%3E%3Ccircle cx='32' cy='38' r='4' fill='%23ffd05b'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">R</div>
+        <div><strong>留学选题雷达</strong><span>广州新东方留学</span></div>
+      </div>
+      <nav aria-label="主要导航">
+        <button class="nav-item active" data-view="radar"><span>⌁</span>选题雷达</button>
+        <button class="nav-item" data-view="sources"><span>◎</span>信源中心</button>
+        <button class="nav-item" data-view="report"><span>▤</span>定时报告</button>
+      </nav>
+      <div class="sidebar-note">
+        <span class="pulse"></span>
+        <div><b id="systemStatus">数据已更新</b><small id="lastUpdated">正在读取…</small></div>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">EDITORIAL INTELLIGENCE</p>
+          <h1>今天，什么值得写？</h1>
+        </div>
+        <div class="top-actions">
+          <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="搜索选题、国家或关键词"></label>
+          <button class="primary" id="refreshBtn">刷新选题</button>
+        </div>
+      </header>
+
+      <section id="radarView" class="view active">
+        <div class="metrics" id="metrics"></div>
+        <div class="toolbar">
+          <div class="filters" id="regionFilters" aria-label="地区筛选"></div>
+          <select id="sortSelect" aria-label="排序方式">
+            <option value="score">按爆款潜力</option>
+            <option value="freshness">按时效性</option>
+            <option value="heat">按热度</option>
+          </select>
+        </div>
+        <div class="content-grid">
+          <section class="topic-panel">
+            <div class="section-heading"><div><p>今日选题池</p><h2 id="topicCount">0 个候选选题</h2></div><span class="legend"><i></i>已核实信源</span></div>
+            <div id="topicList" class="topic-list"></div>
+          </section>
+          <aside id="detailPanel" class="detail-panel" aria-live="polite"></aside>
+        </div>
+      </section>
+
+      <section id="sourcesView" class="view">
+        <div class="page-heading"><p>来源透明，才值得写</p><h2>信源中心</h2><span>热点负责发现，官方信源负责核实。每个选题都保留来源与采集状态。</span></div>
+        <div class="source-grid" id="sourceGrid"></div>
+      </section>
+
+      <section id="reportView" class="view">
+        <div class="page-heading"><p>每天 08:30 自动生成</p><h2>公众号选题日报</h2><span>报告会随每日数据更新，可复制给编辑群，也可下载为 Markdown。</span></div>
+        <div class="report-card">
+          <div class="report-header"><div><span class="date-chip" id="reportDate"></span><h3>广州新东方留学｜今日选题建议</h3></div><button id="downloadReport">下载报告</button></div>
+          <div id="reportContent" class="report-content"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
