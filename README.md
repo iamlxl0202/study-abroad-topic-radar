@@ -12,6 +12,14 @@
 - 一键下载 Markdown 选题日报
 - 响应式网页后台，可通过 GitHub Pages 部署
 
+## 已接入 Skill
+
+- `edu-digest`：留学行业周报，区分本周新增、申请提醒和待核实线索。
+- `study-abroad-content-topics`：严格生成5个时事选题＋5个常青选题。
+- `wechat-article-studio`：按广州新东方留学品牌档案生成公众号写作方案、5组标题摘要、单一CTA和编辑备注。
+
+公开网页不会保存模型或公众号密钥；目前文章工作台提供安全的规则草稿，正式文章仍需编辑审核与事实补充。
+
 ## 数据架构
 
 1. **TrendRadar / DailyHotApi**：发现热点。

@@ -17,6 +17,8 @@
       </div>
       <nav aria-label="主要导航">
         <button class="nav-item active" data-view="radar"><span>⌁</span>选题雷达</button>
+        <button class="nav-item" data-view="digest"><span>◫</span>留学周报</button>
+        <button class="nav-item" data-view="writer"><span>✦</span>文章工作台</button>
         <button class="nav-item" data-view="sources"><span>◎</span>信源中心</button>
         <button class="nav-item" data-view="report"><span>▤</span>定时报告</button>
       </nav>
@@ -54,6 +56,20 @@
             <div id="topicList" class="topic-list"></div>
           </section>
           <aside id="detailPanel" class="detail-panel" aria-live="polite"></aside>
+        </div>
+      </section>
+
+      <section id="digestView" class="view">
+        <div class="page-heading"><p>EDU DIGEST · 逐条可溯源</p><h2>留学热点与选题周报</h2><span>本周新增与既有申请提醒分开呈现；无法回到原文核实的内容不会进入已确认资讯。</span></div>
+        <div class="digest-summary" id="digestSummary"></div>
+        <div class="digest-layout"><div class="digest-main" id="digestMain"></div><aside class="digest-side" id="digestSide"></aside></div>
+      </section>
+
+      <section id="writerView" class="view">
+        <div class="page-heading"><p>WECHAT ARTICLE STUDIO</p><h2>公众号文章工作台</h2><span>从已核实选题生成广州新东方留学官号写作方案，遵循5组标题摘要、递进正文、单一CTA和编辑备注。</span></div>
+        <div class="writer-layout">
+          <section class="writer-form"><h3>写作设置</h3><label>选择选题<select id="writerTopic"></select></label><label>目标读者<input id="writerAudience" value="准备留学申请的学生及家长"></label><label>文章目标<select id="writerMode"><option value="knowledge">知识分享</option><option value="conversion">咨询转化</option></select></label><label>补充要求<textarea id="writerGoal" rows="4" placeholder="例如：重点解释申请时间线，控制在1500字左右"></textarea></label><button class="primary writer-generate" id="generateDraft">生成写作方案</button><p class="form-note">当前生成可编辑的规则草稿，不会虚构案例、服务数据、优惠或院校合作关系。</p></section>
+          <section class="writer-output" id="writerOutput"><div class="empty">选择一个选题，生成公众号文章写作方案</div></section>
         </div>
       </section>
 
