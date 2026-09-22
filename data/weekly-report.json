@@ -1,55 +1,104 @@
 {
-  "generatedAt": "2026-09-18T18:00:00+08:00",
-  "period": "2026-09-08—2026-09-15",
+  "generatedAt": "2026-09-22T08:03:50+08:00",
+  "period": "2026-09-15—2026-09-22",
   "timezone": "Asia/Shanghai",
   "items": [
     {
       "region": "美国",
-      "title": "法院暂缓实施F、J签证固定停留期限新规",
-      "summary": "美国马萨诸塞州联邦地区法院于9月14日签发全国性初步禁令，暂缓原定9月15日生效的DHS新规。禁令期间，F、J人员继续按D/S规则管理；这属于暂缓实施，并非永久撤销。",
-      "publisher": "布朗大学国际学生与学者服务处",
-      "publishedAt": "2026-09-14",
-      "url": "https://isss.brown.edu/news/2026-09-14/dhs-final-rule-postponed",
+      "title": "美国国务院扩大签证申请人的线上信息审查范围",
+      "summary": "美国国务院9月18日宣布，自2026年10月1日起，线上信息审查将新增覆盖I类外国媒体人员、TN类美墨加协定专业人员及其TD家属。申请人被要求将所有社交媒体资料设为公开或开放。公告同时列明，F-1、M-1、F-2、M-2学生及J-1、J-2交流访问者等类别已适用该审查。",
+      "publisher": "美国国务院领事事务局",
+      "publishedAt": "2026-09-18",
+      "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
       "status": "官方确认",
-      "policyStatus": "全国性初步禁令生效，原规则继续执行；并非永久撤销",
-      "impact": "暂时无需因原定9月15日新规立即申请延长停留或调整转学、项目变更，但应持续查看所在学校国际学生办公室通知。",
-      "crossCheck": "https://www.cmu.edu/oie/news-and-events/2026-2027/september/ds-rule-postponed.html"
+      "policyStatus": "正式公告；新增类别自2026年10月1日起纳入审查",
+      "impact": "美国留学申请人虽非本次新增类别，但官方再次确认F、M、J及其家属属于线上信息审查范围。申请表信息、公开履历与社交媒体内容应保持真实一致，并为可能增加的审查时间预留余量。"
     },
     {
-      "region": "新加坡",
-      "title": "中国留服重新公告新加坡私立教育机构认证范围",
-      "summary": "教育部留学服务中心9月14日发布新版认证范围。合作办学课程不能只看EduTrust，还须同时核对实际颁证院校、新加坡教学机构和可受理认证起始时间。",
-      "publisher": "教育部留学服务中心",
-      "publishedAt": "2026-09-14",
-      "url": "https://www.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026091416463289686/index.html",
+      "region": "新西兰",
+      "title": "新西兰移民局建议学生签证至少提前3个月申请",
+      "summary": "新西兰移民局9月17日发布学生签证旺季提示，建议申请人在课程开始前至少3个月递交；若材料齐全可更早申请。官方同时提醒，申请过晚、类别错误或证明材料不完整都可能导致无法按期开学，且不会因已订旅行行程而优先处理。",
+      "publisher": "新西兰移民局",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/apply-early-and-be-ready-tips-for-a-smooth-student-visa-application/",
       "status": "官方确认",
-      "policyStatus": "正式公告，当前有效",
-      "impact": "申请新加坡私立院校或第三国大学新加坡合作课程时，应保存录取通知、注册信息、学习地点、课程名称和颁证主体等材料。"
+      "policyStatus": "官方申请时序与材料提醒；不是签证资格新政",
+      "impact": "计划2027年初入学的学生应从开课日倒推至少3个月准备签证，并提前核对资金、录取、体检及其他证明，避免因旺季积压而延期入学。"
     }
   ],
   "reminders": [
     {
-      "date": "2026-09-21",
-      "title": "中国香港｜内地大学升读资助申请截止",
-      "audience": "符合条件、在217所指定内地院校修读本科的香港学生；属于申请截止提醒，非本期新增。",
-      "url": "https://www.edb.gov.hk/en/edu-system/postsecondary/policy-doc/musss/index.html",
-      "status": "官方确认"
+      "date": "2026-10-06 11:00（UTC）",
+      "title": "英国｜2027/28学年Chevening奖学金申请截止",
+      "audience": "准备申请英国一年制硕士及志奋领奖学金的申请人；应在截止前完成资格核对、推荐人信息及申请文书，系统关闭后无法继续提交。",
+      "publisher": "Chevening（英国外交、联邦及发展事务部支持）",
+      "publishedAt": "2026-08-04",
+      "url": "https://www.chevening.org/scholarships/application-timeline/",
+      "status": "官方确认",
+      "classification": "申请截止提醒，非本期新增"
     },
     {
       "date": "2026-10-15 18:00（英国时间）",
       "title": "英国｜牛津大学2027本科申请截止",
-      "audience": "申请牛津大学2027年本科入学的学生；部分专业另有入学考试及11月10日书面作品要求。",
+      "audience": "申请牛津大学2027年本科入学的学生；部分专业另有入学考试，要求书面作品的专业通常须在11月10日前提交。",
+      "publisher": "牛津大学",
       "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/admissions-timeline",
-      "status": "官方确认"
+      "status": "官方确认",
+      "classification": "申请节点提醒，非本期新增"
     },
     {
       "date": "2026-11-16",
       "title": "新西兰｜毕业后工作签证调整开放申请",
-      "audience": "符合条件的NZQCF 5—7级课程毕业生；属于既有政策生效提醒，并非9月新增。",
+      "audience": "完成符合条件的NZQCF 5—7级课程、但不符合现有毕业后工作签证条件的毕业生，以及部分7级Graduate Diploma毕业生。",
+      "publisher": "新西兰移民局",
+      "publishedAt": "2026-05-29",
       "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
-      "status": "官方确认"
+      "status": "官方确认",
+      "classification": "生效提醒，非本期新增"
     }
   ],
   "leads": [],
-  "coverageNote": "本次覆盖中国内地、中国香港、美国、英国、加拿大、澳大利亚、新西兰、新加坡、日本等主要目的地。本期仅收录2项符合区间内首次发布或实质更新、与国际学生直接相关且原文可核实的重要资讯；其余临近事项单列为提醒。"
+  "coverage": [
+    {
+      "region": "美国",
+      "result": "1项区间新增，已核实"
+    },
+    {
+      "region": "英国",
+      "result": "无重大区间新增；保留2项申请截止提醒"
+    },
+    {
+      "region": "澳大利亚",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "加拿大",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "新加坡",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "中国香港",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "日本",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "新西兰",
+      "result": "1项区间新增，另保留1项政策生效提醒"
+    },
+    {
+      "region": "中国国内/留学服务",
+      "result": "未发现符合标准的重大区间新增"
+    },
+    {
+      "region": "全球/跨国",
+      "result": "未发现符合标准的重大区间新增"
+    }
+  ],
+  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年9月15日至9月22日的官方信息。仅2项同时满足区间内首次发布或实质更新、与国际学生直接相关且官方原文可核实的收录标准；其余国家和地区如实保留空缺，临近申请或生效事项单列为提醒。"
 }
