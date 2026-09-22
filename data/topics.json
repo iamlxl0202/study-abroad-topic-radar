@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:03:50+08:00",
+  "generatedAt": "2026-09-22T00:47:03.669Z",
   "sources": [
     {
       "name": "TrendRadar",
@@ -231,54 +231,6 @@
       "freshness": 78,
       "local": 76,
       "trend": "→ 可复用"
-    },
-    {
-      "id": "evergreen-official-source-check",
-      "topic": "留学新政怎么判断真假：三步找到官方原文",
-      "title": "看到“留学新政”别急着转发：先核对这3个信息",
-      "angle": "教学生和家长核对发布机构、发布日期与生效日期，并区分正式政策、申请提醒、媒体解读和待实施细则。",
-      "region": "综合",
-      "source": "政府与院校官方页面",
-      "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
-      "verified": true,
-      "newsTopic": true,
-      "topicType": "常青",
-      "keywords": [
-        "留学政策",
-        "官方信源",
-        "事实核查"
-      ],
-      "score": 91,
-      "heat": 83,
-      "relevance": 97,
-      "anxiety": 89,
-      "freshness": 81,
-      "local": 79,
-      "trend": "→ 反焦虑"
-    },
-    {
-      "id": "evergreen-application-master-calendar",
-      "topic": "多国联申如何做一张不会漏节点的总日历？",
-      "title": "港英澳新多国联申：一张表管住申请、奖学金和签证节点",
-      "angle": "把院校申请、语言考试、奖学金、签证、住宿与押金节点放入同一日历，并设置提前量和责任人。",
-      "region": "综合",
-      "source": "院校与签证官方时间线",
-      "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/admissions-timeline",
-      "verified": true,
-      "newsTopic": true,
-      "topicType": "常青",
-      "keywords": [
-        "多国联申",
-        "申请时间轴",
-        "留学规划"
-      ],
-      "score": 92,
-      "heat": 85,
-      "relevance": 99,
-      "anxiety": 91,
-      "freshness": 80,
-      "local": 82,
-      "trend": "↑ 申请季"
     }
   ]
 }
