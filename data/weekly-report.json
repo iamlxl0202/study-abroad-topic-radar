@@ -1,41 +1,60 @@
 {
-  "generatedAt": "2026-09-22T08:03:50+08:00",
-  "period": "2026-09-15—2026-09-22",
+  "generatedAt": "2026-09-29T08:41:14+08:00",
+  "period": "2026-09-22—2026-09-29",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "region": "美国",
-      "title": "美国国务院扩大签证申请人的线上信息审查范围",
-      "summary": "美国国务院9月18日宣布，自2026年10月1日起，线上信息审查将新增覆盖I类外国媒体人员、TN类美墨加协定专业人员及其TD家属。申请人被要求将所有社交媒体资料设为公开或开放。公告同时列明，F-1、M-1、F-2、M-2学生及J-1、J-2交流访问者等类别已适用该审查。",
-      "publisher": "美国国务院领事事务局",
-      "publishedAt": "2026-09-18",
-      "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+      "region": "中国香港",
+      "title": "香港大学2027/28本科国际及非联招申请开放",
+      "summary": "香港大学本科招生办公室公布的2027/28申请时间线显示，国际学历及Non-JUPAS申请于9月23日开放；11月25日香港时间中午12时为首轮评估递交节点。申请首轮评估的学生，推荐人及升学顾问须在12月1日前提交预测或实际成绩及支持材料。",
+      "publisher": "香港大学本科招生办公室",
+      "publishedAt": "2026-09-23",
+      "url": "https://admissions.hku.hk/apply/international-qualifications/information-for-counsellors",
       "status": "官方确认",
-      "policyStatus": "正式公告；新增类别自2026年10月1日起纳入审查",
-      "impact": "美国留学申请人虽非本次新增类别，但官方再次确认F、M、J及其家属属于线上信息审查范围。申请表信息、公开履历与社交媒体内容应保持真实一致，并为可能增加的审查时间预留余量。"
-    },
-    {
-      "region": "新西兰",
-      "title": "新西兰移民局建议学生签证至少提前3个月申请",
-      "summary": "新西兰移民局9月17日发布学生签证旺季提示，建议申请人在课程开始前至少3个月递交；若材料齐全可更早申请。官方同时提醒，申请过晚、类别错误或证明材料不完整都可能导致无法按期开学，且不会因已订旅行行程而优先处理。",
-      "publisher": "新西兰移民局",
-      "publishedAt": "2026-09-17",
-      "url": "https://www.immigration.govt.nz/about-us/news-centre/apply-early-and-be-ready-tips-for-a-smooth-student-visa-application/",
-      "status": "官方确认",
-      "policyStatus": "官方申请时序与材料提醒；不是签证资格新政",
-      "impact": "计划2027年初入学的学生应从开课日倒推至少3个月准备签证，并提前核对资金、录取、体检及其他证明，避免因旺季积压而延期入学。"
+      "policyStatus": "2027/28本科申请系统已开放",
+      "impact": "准备使用IB、A-Level、AP、加拿大高中等国际学历申请港大的学生可开始建档和递交。若希望进入首轮评估，应同步安排推荐信、预测成绩及支持材料，避免只完成学生端申请而遗漏推荐人端文件。"
     }
   ],
   "reminders": [
     {
+      "date": "2026-09-24 18:00（英国时间）",
+      "title": "英国｜UCAS 2026入学课程最终申请日期",
+      "audience": "仍计划申请2026年入学英国本科课程的学生；该节点已于本统计区间内结束，属于申请截止记录，不是新政策。",
+      "publisher": "UCAS",
+      "publishedAt": "2026-09-24",
+      "url": "https://www.ucas.com/events/final-date-for-2026-entry-ucas-applications-465696",
+      "status": "官方确认",
+      "classification": "区间内截止节点，非本期新政"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "中国香港｜香港科技大学2027/28国际学历本科申请开放",
+      "audience": "以国际学历申请香港科技大学本科的学生；首轮优先申请截止为2026年11月25日。",
+      "publisher": "香港科技大学本科招生办公室",
+      "publishedAt": "2026-09",
+      "url": "https://join.hkust.edu.hk/admissions/international-qualifications/application-procedures",
+      "status": "官方确认",
+      "classification": "近期申请开放提醒，非本期新增"
+    },
+    {
       "date": "2026-10-06 11:00（UTC）",
       "title": "英国｜2027/28学年Chevening奖学金申请截止",
-      "audience": "准备申请英国一年制硕士及志奋领奖学金的申请人；应在截止前完成资格核对、推荐人信息及申请文书，系统关闭后无法继续提交。",
-      "publisher": "Chevening（英国外交、联邦及发展事务部支持）",
+      "audience": "准备申请英国一年制硕士及志奋领奖学金的申请人；系统关闭后无法继续提交，应提前完成资格核对、推荐人信息与申请文书。",
+      "publisher": "Chevening",
       "publishedAt": "2026-08-04",
       "url": "https://www.chevening.org/scholarships/application-timeline/",
       "status": "官方确认",
       "classification": "申请截止提醒，非本期新增"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "新加坡｜南洋理工大学2027/28本科国际学历申请陆续开放",
+      "audience": "不同高中学历类别的开放及截止时间不同；部分国际学历申请期自10月15日起，申请人须按本人资格类别核对对应窗口。",
+      "publisher": "南洋理工大学本科招生办公室",
+      "publishedAt": "2026-09",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide",
+      "status": "官方确认",
+      "classification": "申请开放提醒，非本期新增"
     },
     {
       "date": "2026-10-15 18:00（英国时间）",
@@ -44,28 +63,28 @@
       "publisher": "牛津大学",
       "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/admissions-timeline",
       "status": "官方确认",
-      "classification": "申请节点提醒，非本期新增"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "新西兰｜毕业后工作签证调整开放申请",
-      "audience": "完成符合条件的NZQCF 5—7级课程、但不符合现有毕业后工作签证条件的毕业生，以及部分7级Graduate Diploma毕业生。",
-      "publisher": "新西兰移民局",
-      "publishedAt": "2026-05-29",
-      "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
-      "status": "官方确认",
-      "classification": "生效提醒，非本期新增"
+      "classification": "申请截止提醒，非本期新增"
     }
   ],
-  "leads": [],
+  "leads": [
+    {
+      "region": "中国香港",
+      "title": "香港城市大学国际本科申请页面显示9月25日开放",
+      "summary": "香港城市大学国际招生页面的检索摘要显示申请于9月25日开放、11月15日为早轮截止，但当前官方页面未能稳定返回完整学年标注，因此本期不将其列入已核实新增。",
+      "publisher": "香港城市大学招生处",
+      "publishedAt": null,
+      "url": "https://www.cityu.edu.hk/admo/admissions/international-admissions",
+      "status": "待核实（需确认页面对应2027/28学年）"
+    }
+  ],
   "coverage": [
     {
       "region": "美国",
-      "result": "1项区间新增，已核实"
+      "result": "未发现符合标准的重大区间新增"
     },
     {
       "region": "英国",
-      "result": "无重大区间新增；保留2项申请截止提醒"
+      "result": "无重大区间新增；保留UCAS、Chevening及牛津申请节点提醒"
     },
     {
       "region": "澳大利亚",
@@ -77,11 +96,11 @@
     },
     {
       "region": "新加坡",
-      "result": "未发现符合标准的重大区间新增"
+      "result": "无重大区间新增；保留南洋理工本科申请开放提醒"
     },
     {
       "region": "中国香港",
-      "result": "未发现符合标准的重大区间新增"
+      "result": "1项区间新增已核实；1条城市大学线索待核实；另有香港科技大学开放提醒"
     },
     {
       "region": "日本",
@@ -89,7 +108,7 @@
     },
     {
       "region": "新西兰",
-      "result": "1项区间新增，另保留1项政策生效提醒"
+      "result": "未发现符合标准的重大区间新增"
     },
     {
       "region": "中国国内/留学服务",
@@ -100,5 +119,5 @@
       "result": "未发现符合标准的重大区间新增"
     }
   ],
-  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年9月15日至9月22日的官方信息。仅2项同时满足区间内首次发布或实质更新、与国际学生直接相关且官方原文可核实的收录标准；其余国家和地区如实保留空缺，临近申请或生效事项单列为提醒。"
+  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年9月22日至9月29日的官方信息。仅香港大学2027/28本科申请开放同时满足区间内发生、与国际学生直接相关且官方页面可核实的收录标准；其余目的地如实保留空缺。申请开放、截止与即将生效事项单列为提醒，未完整确认年份的城市大学信息保留为待核实线索。"
 }
