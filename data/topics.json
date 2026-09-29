@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:41:14+08:00",
+  "generatedAt": "2026-09-29T00:49:49.022Z",
   "sources": [
     {
       "name": "TrendRadar",
@@ -234,56 +234,6 @@
       "freshness": 78,
       "local": 82,
       "trend": "→ 长期实用"
-    },
-    {
-      "id": "evergreen-scholarship-last-week",
-      "topic": "奖学金申请最后一周，应该修改文书还是先提交？",
-      "title": "奖学金截止前7天：先补漏洞，还是继续打磨文书？",
-      "angle": "按资格硬条件、必填信息、推荐人、文书逻辑、技术提交风险排序，帮助申请人合理分配最后一周时间。",
-      "region": "综合",
-      "source": "奖学金官方时间线",
-      "url": "https://www.chevening.org/scholarships/application-timeline/",
-      "verified": true,
-      "newsTopic": true,
-      "topicType": "常青",
-      "keywords": [
-        "奖学金",
-        "文书",
-        "申请截止"
-      ],
-      "score": 88,
-      "heat": 82,
-      "relevance": 95,
-      "anxiety": 88,
-      "freshness": 80,
-      "local": 77,
-      "trend": "→ 可复用"
-    },
-    {
-      "id": "evergreen-multi-country-calendar",
-      "topic": "港英新多国联申，如何避免申请节点撞车？",
-      "title": "港英新多国联申时间表：10月至次年1月怎么安排？",
-      "angle": "把港校优先轮、英国本科特殊截止、新加坡本科开放及语言考试节点放入一张倒推日历，并区分学生端和推荐人端任务。",
-      "region": "综合",
-      "source": "院校与申请平台官方时间线",
-      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide",
-      "verified": true,
-      "newsTopic": true,
-      "topicType": "常青",
-      "keywords": [
-        "多国联申",
-        "申请时间轴",
-        "香港",
-        "英国",
-        "新加坡"
-      ],
-      "score": 94,
-      "heat": 87,
-      "relevance": 99,
-      "anxiety": 91,
-      "freshness": 84,
-      "local": 86,
-      "trend": "↑ 申请季"
     }
   ]
 }
