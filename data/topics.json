@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:44:59+08:00",
+  "generatedAt": "2026-10-06T00:52:38.005Z",
   "sources": [
     {
       "name": "TrendRadar",
@@ -237,56 +237,6 @@
       "freshness": 88,
       "local": 88,
       "trend": "↑ 申请季"
-    },
-    {
-      "id": "evergreen-scholarship-final-check",
-      "topic": "奖学金截止前最后一周怎么安排？",
-      "title": "奖学金申请最后7天：从资格复核到最终提交的倒排清单",
-      "angle": "提供可执行的七日节奏，覆盖资格、课程选择、推荐人、文书证据、系统校验及时区换算。",
-      "region": "全球/跨国",
-      "source": "常青选题",
-      "url": "",
-      "verified": true,
-      "newsTopic": false,
-      "topicType": "常青",
-      "keywords": [
-        "奖学金申请",
-        "截止日期",
-        "推荐信",
-        "文书"
-      ],
-      "score": 89,
-      "heat": 83,
-      "relevance": 95,
-      "anxiety": 88,
-      "freshness": 79,
-      "local": 83,
-      "trend": "→ 周期性需求"
-    },
-    {
-      "id": "evergreen-policy-source-check",
-      "topic": "留学新政如何辨别真假和适用范围？",
-      "title": "看到“留学新规”先别慌：用发布日期、生效日和适用对象三步核实",
-      "angle": "教学生和家长区分公告日期、生效日期、过渡安排与例外条款，并优先回到政府、高校和奖学金发布方原文。",
-      "region": "全球/跨国",
-      "source": "常青选题",
-      "url": "",
-      "verified": true,
-      "newsTopic": false,
-      "topicType": "常青",
-      "keywords": [
-        "留学政策",
-        "事实核查",
-        "官方来源",
-        "政策解读"
-      ],
-      "score": 92,
-      "heat": 85,
-      "relevance": 98,
-      "anxiety": 86,
-      "freshness": 82,
-      "local": 86,
-      "trend": "→ 辟谣刚需"
     }
   ]
 }
