@@ -1,136 +1,135 @@
 {
-  "generatedAt": "2026-10-06T08:44:59+08:00",
-  "period": "2026-09-29—2026-10-06",
+  "generatedAt": "2026-10-13T08:38:09+08:00",
+  "period": "2026-10-06—2026-10-13",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "region": "澳大利亚",
-      "title": "澳大利亚学生签证完整性改革于10月2日生效",
-      "summary": "澳大利亚政府10月2日宣布一揽子学生签证完整性改革即时生效。措施包括限制多数临时签证持有人在澳境内转申学生签证；学生签证持有人续签时须证明课程进阶；收紧配偶及子女随行范围，并取消后续追加随行家属。学校、博士生、政府资助学生及部分太平洋和东盟国家学生等存在有限例外。",
-      "publisher": "澳大利亚内政事务助理部长办公室",
-      "publishedAt": "2026-10-02",
-      "url": "https://minister.homeaffairs.gov.au/JulianHill/Pages/student-visa-integrity-reforms-take-effect-today.aspx",
+      "region": "日本",
+      "title": "JASSO更新2026年第二回EJU考试会场信息",
+      "summary": "日本学生支援机构（JASSO）于10月9日更新2026年度第二回日本留学考试（EJU）考试会场信息。EJU用于评估希望进入日本大学等高等教育机构的国际学生的日语能力及基础学力；已报名考生应重新核对本人准考安排与会场信息，不应仅依赖报名时保存的旧页面。",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "2026-10-09",
+      "url": "https://www.jasso.go.jp/en/ryugaku/eju/",
       "status": "官方确认",
-      "policyStatus": "部分措施已于2026年10月2日生效；新的学生签证转学类别计划于2027年7月1日实施",
-      "impact": "计划在澳境内由工作度假、技能类等临时签证转为学生签证，或准备携带/后续追加家属的申请人，应重新核对是否仍具境内申请及家属随行资格。"
+      "policyStatus": "第二回EJU考试会场信息已更新",
+      "impact": "参加2026年第二回EJU的境内外考生，应以准考证和JASSO最新会场页面为准，提前核对交通、入场要求和考试科目安排。"
     },
     {
-      "region": "澳大利亚",
-      "title": "非中小学国际生转学限制期临时延长至12个月",
-      "summary": "澳大利亚《海外学生国家规范》于10月2日修订：非中小学国际学生在主课程开始后的转学限制期由6个月临时延长至12个月，实施至2027年6月30日；中小学学生仍适用首个注册学校课程6个月限制。院校或课程停止注册等特殊情形仍可例外处理。",
-      "publisher": "澳大利亚教育部",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.education.gov.au/esos-framework/changes-legislative-framework-overseas-students",
+      "region": "中国国内/留学服务",
+      "title": "教育部留学服务中心发布10月12日网上服务大厅维护通知",
+      "summary": "教育部留学服务中心10月10日公告，网上服务大厅于10月12日17:00至24:00升级运维并暂停服务。该时段已经结束，公告属于服务运行通知，不涉及学历学位认证标准或材料要求变化。",
+      "publisher": "教育部留学服务中心",
+      "publishedAt": "2026-10-10",
+      "url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxgg/2026101016513214356/index.html",
       "status": "官方确认",
-      "policyStatus": "2026年10月2日起生效，临时执行至2027年6月30日",
-      "impact": "已在澳入读高等教育、VET或其他非中小学课程并计划转校的学生，需要先判断是否已完成主课程12个月，以及是否满足特殊情形；不能再沿用旧有6个月规则。"
-    },
-    {
-      "region": "澳大利亚",
-      "title": "特定管理学研究生文凭课程自10月5日起停止招收海外学生",
-      "summary": "澳大利亚教育部公告，BSB80120 Graduate Diploma of Management (Learning) 的CRICOS注册自10月5日起暂停并取消。海外学生自该日起不能新注册该课程，但已在读学生可继续完成学业。",
-      "publisher": "澳大利亚教育部",
-      "publishedAt": "2026-10-02",
-      "url": "https://www.education.gov.au/esos-framework/changes-legislative-framework-overseas-students",
-      "status": "官方确认",
-      "policyStatus": "2026年10月5日起停止海外学生新注册；现有学生可继续修读",
-      "impact": "正在比较澳洲管理类VET/研究生文凭课程的学生，应核对准确课程代码与CRICOS状态；现有学生不应仅凭“课程取消”标题判断必须立即退学。"
+      "policyStatus": "临时维护已经结束；认证政策未变",
+      "impact": "需要提交学历认证或办理其他线上业务的留学人员，如曾在维护时段操作失败，可重新登录服务大厅确认提交状态；不应将此次维护解读为认证规则调整。"
     }
   ],
   "reminders": [
     {
-      "date": "2026-10-01起",
-      "title": "美国｜签证线上信息审查扩大，但F/M/J并非本周才纳入",
-      "audience": "美国国务院9月18日公告自10月1日起新增I、TN、TD类别；F、M学生签证及J交流访问签证此前已适用线上信息审查。申请人应依领馆指示检查社交媒体公开设置，但不要将10月1日误解为学生签证审查首次启动。",
-      "publisher": "美国国务院领事事务局",
-      "publishedAt": "2026-09-18",
-      "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
-      "status": "官方确认",
-      "classification": "政策生效提醒，非本期首次发布"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "中国香港｜香港科技大学2027/28国际学历本科申请已经开放",
-      "audience": "国际课程申请人；优先轮截止为11月25日，须准备身份证明、个人陈述、10年级起成绩、英语证明及至少一名学术推荐人。",
-      "publisher": "香港科技大学本科招生办公室",
-      "publishedAt": "2026-09",
-      "url": "https://join.hkust.edu.hk/admissions/international-qualifications/application-procedures",
-      "status": "官方确认",
-      "classification": "申请开放节点，非本期新公告"
-    },
-    {
-      "date": "2026-10-06 11:00（UTC）",
-      "title": "英国｜2027/28 Chevening奖学金申请今日截止",
-      "audience": "申请英国一年制硕士及志奋领奖学金的申请人；截止后将无法进入在线申请系统。北京时间对应10月6日19:00。",
-      "publisher": "Chevening",
-      "publishedAt": "2026-08-04",
-      "url": "https://www.chevening.org/scholarships/application-timeline/",
-      "status": "官方确认",
-      "classification": "申请截止提醒，非本期新增"
-    },
-    {
       "date": "2026-10-15 18:00（英国时间）",
-      "title": "英国｜牛津大学2027本科申请截止",
-      "audience": "申请牛津大学2027年本科入学的学生；还应核对UAT-UK、UCAT或LNAT考试安排，需书面作品的专业通常在11月10日前提交。",
-      "publisher": "牛津大学",
+      "title": "英国｜牛津、剑桥及多数医学、牙医、兽医课程UCAS截止",
+      "audience": "申请2027入学牛津、剑桥以及多数医学、牙医和兽医类本科课程的学生；完整申请及学术推荐信须在截止前进入UCAS。",
+      "publisher": "UCAS",
       "publishedAt": "2026",
-      "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/admissions-timeline",
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
       "status": "官方确认",
       "classification": "近期申请截止提醒"
     },
     {
       "date": "2026-10-15起",
-      "title": "新加坡｜南洋理工大学部分国际学历类别本科申请开放",
-      "audience": "不同高中学历类别的开放和截止时间不同；申请人应按本人资格类别进入NTU官方页面核对窗口，不能统一套用同一截止日。",
+      "title": "新加坡｜南洋理工大学AY2027国际学历本科申请开放",
+      "audience": "持IB及其他国际学历申请NTU本科的学生；不同学历类别的申请截止和材料节点不同，应进入对应资格页面核对。",
       "publisher": "南洋理工大学本科招生办公室",
-      "publishedAt": "2026-09",
+      "publishedAt": "2026",
       "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions",
       "status": "官方确认",
       "classification": "近期申请开放提醒"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "中国香港｜香港中文大学本科招生资讯日",
+      "audience": "准备申请2027入学港中大的国际、Non-JUPAS及其他本科申请人；活动用于了解专业与申请安排，不等同于申请截止。",
+      "publisher": "香港中文大学本科招生办公室",
+      "publishedAt": "2026",
+      "url": "https://admission.cuhk.edu.hk/",
+      "status": "官方确认",
+      "classification": "近期招生活动提醒"
+    },
+    {
+      "date": "2026-11-12 23:59（香港时间）",
+      "title": "中国香港｜香港中文大学2027本科提前录取轮截止",
+      "audience": "以国际或其他非本地学历申请港中大的学生；未获提前录取者会自动进入常规轮，无须重复提交申请。",
+      "publisher": "香港中文大学本科招生办公室",
+      "publishedAt": "2026",
+      "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+      "status": "官方确认",
+      "classification": "申请截止提醒，非本期新增"
+    },
+    {
+      "date": "2026-11-25 12:00（香港时间）",
+      "title": "中国香港｜香港大学2027本科首轮评估截止",
+      "audience": "持国际学历或其他非高考学历申请港大的非本地学生；须确保预测或实际成绩已录入系统，学院可能另有材料时间线。",
+      "publisher": "香港大学本科招生办公室",
+      "publishedAt": "2026",
+      "url": "https://admissions.hku.hk/apply/international-qualifications",
+      "status": "官方确认",
+      "classification": "申请截止提醒，非本期新增"
     }
   ],
-  "leads": [],
+  "leads": [
+    {
+      "region": "中国香港",
+      "title": "香港中文大学10月13日面向2027国际申请人的线上招生讲座",
+      "summary": "港中大官方检索页面显示10月13日举行2027入学线上招生讲座，但本次回查时详情页超时，未能完整核对报名状态与活动时区，因此不列入已核实新增。",
+      "publisher": "香港中文大学本科招生办公室",
+      "publishedAt": "2026-10-13",
+      "url": "https://admission.cuhk.edu.hk/news/online-admissions-talk-start-your-story-shape-your-journey-study-in-hong-kong-at-cuhk-13-oct/",
+      "status": "待核实（详情页暂时无法稳定读取）"
+    }
+  ],
   "coverage": [
     {
       "region": "美国",
-      "result": "无重大区间新增；保留10月1日签证线上审查扩围的生效提醒，并明确F/M/J并非本周首次纳入"
+      "result": "未发现符合收录标准的重大区间新增"
     },
     {
       "region": "英国",
-      "result": "无重大区间新增；保留Chevening与牛津大学截止提醒"
+      "result": "无重大区间新增；保留10月15日UCAS特殊课程截止提醒"
     },
     {
       "region": "澳大利亚",
-      "result": "3项区间新增已核实，涉及境内学签、家属、转学限制及特定课程CRICOS状态"
+      "result": "未发现区别于上一期已收录改革的重大区间新增"
     },
     {
       "region": "加拿大",
-      "result": "未发现符合收录标准的重大区间新增"
+      "result": "未发现重大政策新增；学校录取通知核验系统维护属于院校端操作通知，未作为学生政策收录"
     },
     {
       "region": "新加坡",
-      "result": "无重大区间新增；保留南洋理工部分学历类别申请开放提醒"
+      "result": "无重大区间新增；保留南洋理工大学10月15日申请开放提醒"
     },
     {
       "region": "中国香港",
-      "result": "无新公告；香港科技大学申请系统在区间内按既定时间开放，列为申请节点提醒"
+      "result": "无重大政策新增；保留港中大、港大申请与招生活动节点，并列1条待核实讲座线索"
     },
     {
       "region": "日本",
-      "result": "未发现符合收录标准的重大区间新增"
+      "result": "1项EJU会场信息更新已核实"
     },
     {
       "region": "新西兰",
-      "result": "无重大政策新增；10月4日国际学生签证系统维护已经结束，不作为持续性政策收录"
+      "result": "未发现符合收录标准的重大区间新增"
     },
     {
       "region": "中国国内/留学服务",
-      "result": "未发现与学生申请、认证或留学服务直接相关的重大区间新增"
+      "result": "1项服务大厅临时维护通知已核实；不涉及认证标准变化"
     },
     {
       "region": "全球/跨国",
       "result": "未发现符合收录标准的重大区间新增"
     }
   ],
-  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年9月29日至10月6日官方信息。高可信新增集中于澳大利亚10月2日发布并生效的学生签证完整性改革及配套教育监管调整；其余地区以既定申请开放、截止或生效节点为主，均单列为提醒。未发现需要保留但尚无法核实的重要线索，因此待核实线索为空。"
+  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年10月6日至10月13日官方信息。区间内可核实新增以EJU会场更新及中国留服系统维护通知为主，均未夸大为政策改革。英国、新加坡和香港的重要申请日期单列为提醒；港中大10月13日线上讲座因详情页未能稳定读取，保留为待核实线索。"
 }
