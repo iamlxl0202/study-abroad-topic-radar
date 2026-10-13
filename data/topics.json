@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:38:09+08:00",
+  "generatedAt": "2026-10-13T00:59:00.353Z",
   "sources": [
     {
       "name": "TrendRadar",
@@ -237,56 +237,6 @@
       "freshness": 82,
       "local": 86,
       "trend": "→ 申请基础"
-    },
-    {
-      "id": "evergreen-early-rounds",
-      "topic": "提前轮没录取是否等于申请失败？",
-      "title": "港校提前轮、优先轮和滚动录取：结果与后续机会怎么判断？",
-      "angle": "比较三类审理机制，讲清一次申请、自动转入常规轮和滚动审理的常见差异。",
-      "region": "中国香港",
-      "source": "常青选题",
-      "url": "",
-      "verified": true,
-      "newsTopic": false,
-      "topicType": "常青",
-      "keywords": [
-        "港校申请",
-        "提前轮",
-        "优先轮",
-        "滚动录取"
-      ],
-      "score": 94,
-      "heat": 90,
-      "relevance": 99,
-      "anxiety": 93,
-      "freshness": 85,
-      "local": 91,
-      "trend": "↑ 港校申请季"
-    },
-    {
-      "id": "evergreen-portal-maintenance",
-      "topic": "申请系统维护期间提交失败怎么办？",
-      "title": "留学申请与认证平台临时维护：如何避免材料丢失和重复缴费？",
-      "angle": "给出保存回执、确认支付状态、错峰提交、截屏报错与联系官方客服的通用方案。",
-      "region": "全球/跨国",
-      "source": "常青选题",
-      "url": "",
-      "verified": true,
-      "newsTopic": false,
-      "topicType": "常青",
-      "keywords": [
-        "申请系统",
-        "系统维护",
-        "学历认证",
-        "材料提交"
-      ],
-      "score": 87,
-      "heat": 80,
-      "relevance": 94,
-      "anxiety": 86,
-      "freshness": 78,
-      "local": 84,
-      "trend": "→ 实用指南"
     }
   ]
 }
