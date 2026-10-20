@@ -1,135 +1,254 @@
 {
-  "generatedAt": "2026-10-13T08:38:09+08:00",
-  "period": "2026-10-06—2026-10-13",
+  "title": "留学行业资讯周报｜2026年10月13日—10月20日",
+  "brand": "广州新东方留学",
+  "executionDate": "2026-10-20",
+  "generatedAt": "2026-10-20T08:45:00+08:00",
+  "cutoffAt": "2026-10-20T08:45:00+08:00",
   "timezone": "Asia/Shanghai",
+  "period": "2026-10-13—2026-10-20",
+  "highlights": [
+    "美国：华盛顿州立大学10月16日发布OPT提案说明；底层DHS规则于10月8日公布，仍处于提案阶段，尚未生效。",
+    "日本：JASSO于10月15日公布2026年度第二回EJU报名人数，总计32,853人；10月16日发布国内考生注意事项并通知受验票寄送。",
+    "新加坡：南洋理工大学AY2027国际学历本科申请窗口于10月15日开放。",
+    "日本：立命馆大学于10月15日更新学费减免与奖学金指南，明确2027学年学费减免制度尚未决定。"
+  ],
   "items": [
     {
-      "region": "日本",
-      "title": "JASSO更新2026年第二回EJU考试会场信息",
-      "summary": "日本学生支援机构（JASSO）于10月9日更新2026年度第二回日本留学考试（EJU）考试会场信息。EJU用于评估希望进入日本大学等高等教育机构的国际学生的日语能力及基础学力；已报名考生应重新核对本人准考安排与会场信息，不应仅依赖报名时保存的旧页面。",
-      "publisher": "日本学生支援机构（JASSO）",
-      "publishedAt": "2026-10-09",
-      "url": "https://www.jasso.go.jp/en/ryugaku/eju/",
+      "region": "美国",
+      "category": "政策与签证",
+      "classification": "区间内重要后续",
+      "title": "华盛顿州立大学说明OPT费用提案尚未生效",
+      "summary": "华盛顿州立大学国际学生办公室于10月16日发布提醒，解释美国国土安全部有关OPT费用的提案。联邦公报原文提出：由SEVP认证学校在首次推荐F-1学生参加OPT时缴纳70,000美元，后续OPT推荐拟缴30,000美元；这是向学校适用的拟议费用，并非已经生效、要求学生立即支付的现行收费。校方提醒学生目前继续按现行流程办理，最终安排须等待规则制定程序结果。",
+      "publisher": "华盛顿州立大学国际学生与学者服务处；底层规则发布方为美国国土安全部/美国移民与海关执法局",
+      "publishedAt": "2026-10-16（校方跟进说明）；提案原文发布于2026-10-08",
+      "eventDate": "2026-10-16",
+      "url": "https://ip.wsu.edu/october-16th-2026-immigration-advisory/",
+      "crossCheck": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20660.htm",
       "status": "官方确认",
-      "policyStatus": "第二回EJU考试会场信息已更新",
-      "impact": "参加2026年第二回EJU的境内外考生，应以准考证和JASSO最新会场页面为准，提前核对交通、入场要求和考试科目安排。"
+      "policyStatus": "DHS提案阶段，尚未生效；公开意见截止日期为2026-11-09",
+      "impact": "学生不应把提案误读为当前个人应缴费用，也不应仅因该提案自行中断OPT申请。学校、学生及雇主应关注后续最终规则和生效日期。",
+      "verificationDate": "2026-10-20 08:45（北京时间）",
+      "evidence": "联邦公报将文件标注为Notice of Proposed Rulemaking，并列明70,000美元初次推荐费用、30,000美元后续推荐费用及11月9日意见截止日；WSU于10月16日明确说明费用尚未生效。"
     },
     {
-      "region": "中国国内/留学服务",
-      "title": "教育部留学服务中心发布10月12日网上服务大厅维护通知",
-      "summary": "教育部留学服务中心10月10日公告，网上服务大厅于10月12日17:00至24:00升级运维并暂停服务。该时段已经结束，公告属于服务运行通知，不涉及学历学位认证标准或材料要求变化。",
-      "publisher": "教育部留学服务中心",
-      "publishedAt": "2026-10-10",
-      "url": "https://www.cscse.edu.cn/lxfwzx/tzgg/zxgg/2026101016513214356/index.html",
+      "region": "日本",
+      "category": "考试与招生数据",
+      "classification": "区间新增",
+      "title": "JASSO公布2026年度第二回EJU报名人数",
+      "summary": "日本学生支援机构（JASSO）于10月15日更新2026年度第二回日本留学考试（EJU）报名数据：日本国内报名24,509人、海外报名8,344人，合计32,853人。这里是报名人数，不应写成实际到考人数或录取人数；海外报名数据中包含香港等考区。",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "2026-10-15",
+      "eventDate": "2026-10-15",
+      "url": "https://www.jasso.go.jp/ryugaku/eju/about/data/applicants_examinees.html",
       "status": "官方确认",
-      "policyStatus": "临时维护已经结束；认证政策未变",
-      "impact": "需要提交学历认证或办理其他线上业务的留学人员，如曾在维护时段操作失败，可重新登录服务大厅确认提交状态；不应将此次维护解读为认证规则调整。"
+      "policyStatus": "官方报名统计更新；不是录取或实际到考数据",
+      "impact": "准备日本本科申请的学生可据此了解本届EJU报名规模，但不能据报名人数推断个人录取概率；选校仍应以目标大学公布的科目、成绩使用方式及申请要求为准。",
+      "verificationDate": "2026-10-20 08:45（北京时间）",
+      "evidence": "JASSO原始数据页标注2026年10月15日更新，并分别列出国内小计24,509、国外小计8,344、总计32,853。"
+    },
+    {
+      "region": "日本",
+      "category": "考试安排与考务",
+      "classification": "区间新增",
+      "title": "JASSO发布第二回EJU国内考生受验票寄送与考试注意事项",
+      "summary": "JASSO于10月16日公告，2026年度第二回EJU国内考生受验票已寄送，并发布国内考生考试注意事项。官方注意事项要求考生核对受验票信息，并携带规定的本人身份证明原件；具体允许使用的证件、文具和考场要求应按JASSO页面执行。第二回EJU考试日为2026年11月8日。海外考点的受验票发放方式可能不同，不能将国内安排直接套用到所有海外考区。",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "2026-10-16",
+      "eventDate": "2026-10-16",
+      "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/procedure/caution.html",
+      "crossCheck": "https://www.jasso.go.jp/ryugaku/eju/index.html",
+      "status": "官方确认",
+      "policyStatus": "2026年度第二回EJU考务通知；考试日期为2026-11-08",
+      "impact": "已报名考生应尽快核对受验票上的姓名、生日等信息，提前准备符合要求的身份证明原件和考试用品；如受验票未收到或信息有误，应按JASSO官方指引联系考务窗口。",
+      "verificationDate": "2026-10-20 08:45（北京时间）",
+      "evidence": "JASSO注意事项页面列出考场携带物、身份证明原件要求及考场纪律；JASSO EJU官方页面新闻列表显示10月16日受验票寄送通知。"
+    },
+    {
+      "region": "新加坡",
+      "category": "院校招生",
+      "classification": "区间内开放节点",
+      "title": "南洋理工大学AY2027国际学历本科申请窗口开放",
+      "summary": "南洋理工大学（NTU）官方本科招生页面列明，AY2027面向国际学历申请人的申请窗口于2026年10月15日开放，涵盖IB等国际学历类别；页面显示国际学历申请窗口通常延续至2027年3月19日，但具体截止时间和材料节点因学历类别而异。该事项属于申请窗口开放，不是新增签证或招生政策。",
+      "publisher": "南洋理工大学本科招生办公室",
+      "publishedAt": "官网未标明单独发布日期；官网时间表确认开放日为2026-10-15",
+      "eventDate": "2026-10-15",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions",
+      "status": "官方确认",
+      "policyStatus": "AY2027国际学历本科申请窗口已开放；各学历类别时间表需分别核对",
+      "impact": "学生应先按实际高中学历选择申请入口，再核对专业先修科目、成绩提交方式、附加材料和对应截止时间，不宜把IB时间表直接套用于所有国际学历。",
+      "verificationDate": "2026-10-20 08:45（北京时间）",
+      "evidence": "NTU本科招生页面的CURRENT AND UPCOMING APPLICATION WINDOWS明确列出2026年10月15日开放，并列明国际学历类别的申请窗口。"
+    },
+    {
+      "region": "日本",
+      "category": "奖学金与学费减免",
+      "classification": "区间内官方页面更新",
+      "title": "立命馆大学更新国际学生学费减免与奖学金指南",
+      "summary": "立命馆大学国际中心的指南页面标注于2026年10月15日更新。页面说明2026年秋季面向自费国际学生的学费减免与奖学金申请期已结束，并明确2027学年起的学费减免制度尚未决定，后续是否调整或维持现行形式仍待校方确定。因此，2026秋季指南不能被当作2027学年已确定的奖学金政策。",
+      "publisher": "立命馆大学国际中心",
+      "publishedAt": "2026-10-15（页面更新日期）",
+      "eventDate": "2026-10-15",
+      "url": "https://global.support.ritsumei.ac.jp/hc/en-us/articles/42478423815571--Application-Guidelines-for-Ritsumeikan-University-Tuition-Reduction-and-Scholarships-Updated-on-October-15-2026",
+      "status": "官方确认",
+      "policyStatus": "2026秋季申请已结束；2027学年学费减免制度尚未决定",
+      "impact": "在校国际学生和计划申请立命馆大学的学生应区分当前学年与未来学年规则，等待校方公布下一学年的正式指南；不要根据旧指南承诺未来减免比例或资格。",
+      "verificationDate": "2026-10-20 08:45（北京时间）",
+      "evidence": "立命馆大学国际中心页面明确标注2026年10月15日更新，并写明2027学年学费减免制度尚未决定。"
     }
   ],
   "reminders": [
     {
-      "date": "2026-10-15 18:00（英国时间）",
-      "title": "英国｜牛津、剑桥及多数医学、牙医、兽医课程UCAS截止",
-      "audience": "申请2027入学牛津、剑桥以及多数医学、牙医和兽医类本科课程的学生；完整申请及学术推荐信须在截止前进入UCAS。",
-      "publisher": "UCAS",
-      "publishedAt": "2026",
-      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "date": "2026-10-30 23:59（官网标注AEST）",
+      "title": "澳大利亚｜新南威尔士大学2027年第一学期国际学生奖学金申请截止",
+      "audience": "计划于2027年第一学期入读UNSW的国际本科或授课型研究生；不同奖项有不同资格，部分申请人须在10月30日前取得符合要求的录取通知。",
+      "publisher": "新南威尔士大学奖学金办公室",
+      "publishedAt": "官网当前奖学金页面；原始开放日为2026-07-06",
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
       "status": "官方确认",
       "classification": "近期申请截止提醒"
     },
     {
-      "date": "2026-10-15起",
-      "title": "新加坡｜南洋理工大学AY2027国际学历本科申请开放",
-      "audience": "持IB及其他国际学历申请NTU本科的学生；不同学历类别的申请截止和材料节点不同，应进入对应资格页面核对。",
+      "date": "2026-11-08",
+      "title": "日本｜2026年度第二回EJU考试日",
+      "audience": "已报名参加第二回EJU的考生；请按考区核对受验票、证件原件、考试科目和考场要求。",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "官方考试日程；国内考务提醒更新于2026-10-16",
+      "url": "https://www.jasso.go.jp/ryugaku/eju/schedule.html",
+      "status": "官方确认",
+      "classification": "近期考试节点提醒"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "美国｜OPT拟议费用规则公开意见征集截止",
+      "audience": "高校国际学生办公室、教育机构及希望就DHS提案提交意见的相关方；该日期不是学生OPT申请截止日，提案目前尚未生效。",
+      "publisher": "美国国土安全部/美国移民与海关执法局",
+      "publishedAt": "2026-10-08",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20660.htm",
+      "status": "官方确认（提案阶段）",
+      "classification": "政策意见征集提醒"
+    },
+    {
+      "date": "2026-10-15—2027-03-19（按学历类别有差异）",
+      "title": "新加坡｜NTU AY2027国际学历本科申请窗口已开放",
+      "audience": "持IB及其他国际学历申请NTU本科的学生；需进入对应学历页面核对申请截止、专业先修科目和材料提交节点。",
       "publisher": "南洋理工大学本科招生办公室",
-      "publishedAt": "2026",
+      "publishedAt": "官网时间表；开放日为2026-10-15",
       "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions",
       "status": "官方确认",
       "classification": "近期申请开放提醒"
     },
     {
-      "date": "2026-10-17",
-      "title": "中国香港｜香港中文大学本科招生资讯日",
-      "audience": "准备申请2027入学港中大的国际、Non-JUPAS及其他本科申请人；活动用于了解专业与申请安排，不等同于申请截止。",
-      "publisher": "香港中文大学本科招生办公室",
-      "publishedAt": "2026",
-      "url": "https://admission.cuhk.edu.hk/",
-      "status": "官方确认",
-      "classification": "近期招生活动提醒"
-    },
-    {
       "date": "2026-11-12 23:59（香港时间）",
-      "title": "中国香港｜香港中文大学2027本科提前录取轮截止",
-      "audience": "以国际或其他非本地学历申请港中大的学生；未获提前录取者会自动进入常规轮，无须重复提交申请。",
+      "title": "中国香港｜香港中文大学2027本科国际/非本地学历提前录取轮截止",
+      "audience": "以国际或其他非本地学历申请港中大本科的学生；官网说明未获提前录取者将自动进入常规轮，无须重复提交申请。",
       "publisher": "香港中文大学本科招生办公室",
-      "publishedAt": "2026",
+      "publishedAt": "官网当前招生时间表；发布日期未标明",
       "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
       "status": "官方确认",
-      "classification": "申请截止提醒，非本期新增"
+      "classification": "近期申请截止提醒"
     },
     {
-      "date": "2026-11-25 12:00（香港时间）",
-      "title": "中国香港｜香港大学2027本科首轮评估截止",
-      "audience": "持国际学历或其他非高考学历申请港大的非本地学生；须确保预测或实际成绩已录入系统，学院可能另有材料时间线。",
-      "publisher": "香港大学本科招生办公室",
-      "publishedAt": "2026",
-      "url": "https://admissions.hku.hk/apply/international-qualifications",
+      "date": "2026-11-25",
+      "title": "中国香港｜香港科技大学副学位/高等文凭等Post-secondary申请优先轮截止",
+      "audience": "持副学位、高等文凭或符合HKUST post-secondary入学类别的申请人；此日期仅适用于该申请通道，不是所有国际本科申请人的统一截止日期。",
+      "publisher": "香港科技大学本科招生办公室",
+      "publishedAt": "官网当前招生时间表；发布日期未标明",
+      "url": "https://www.join.hkust.edu.hk/admissions/post-secondary",
       "status": "官方确认",
-      "classification": "申请截止提醒，非本期新增"
-    }
-  ],
-  "leads": [
+      "classification": "近期申请截止提醒"
+    },
     {
-      "region": "中国香港",
-      "title": "香港中文大学10月13日面向2027国际申请人的线上招生讲座",
-      "summary": "港中大官方检索页面显示10月13日举行2027入学线上招生讲座，但本次回查时详情页超时，未能完整核对报名状态与活动时区，因此不列入已核实新增。",
-      "publisher": "香港中文大学本科招生办公室",
-      "publishedAt": "2026-10-13",
-      "url": "https://admission.cuhk.edu.hk/news/online-admissions-talk-start-your-story-shape-your-journey-study-in-hong-kong-at-cuhk-13-oct/",
-      "status": "待核实（详情页暂时无法稳定读取）"
+      "date": "2026-10-07起（本期前已发布，当前仍适用）",
+      "title": "新西兰｜Funds Transfer Scheme新增BNZ作为可选服务机构",
+      "audience": "来自中国、印度、尼泊尔、菲律宾、斯里兰卡和越南、就读新西兰大学或理工学院且符合条件的国际学生；私立培训机构学生仍需按官方页面了解ANZ适用安排。",
+      "publisher": "新西兰移民局",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.immigration.govt.nz/about-us/news-centre/bnz-to-join-immigration-new-zealands-funds-transfer-scheme/",
+      "status": "官方确认",
+      "classification": "持续适用的服务提醒，非本期新增"
     }
   ],
+  "leads": [],
   "coverage": [
     {
       "region": "美国",
-      "result": "未发现符合收录标准的重大区间新增"
+      "result": "1项区间内重要后续：华盛顿州立大学于10月16日解释OPT费用提案；底层提案原文发布于10月8日，仍未生效。"
     },
     {
       "region": "英国",
-      "result": "无重大区间新增；保留10月15日UCAS特殊课程截止提醒"
+      "result": "本次未检索到符合时效与核实要求的新增资讯；10月15日UCAS特殊课程截止已过，不作为未来截止提醒。"
     },
     {
       "region": "澳大利亚",
-      "result": "未发现区别于上一期已收录改革的重大区间新增"
+      "result": "本次未检索到符合时效与核实要求的新增资讯；保留UNSW国际学生奖学金10月30日截止提醒。"
     },
     {
       "region": "加拿大",
-      "result": "未发现重大政策新增；学校录取通知核验系统维护属于院校端操作通知，未作为学生政策收录"
+      "result": "本次未检索到符合时效与核实要求的新增资讯；此前已公布的学习许可政策不作为本期新增。"
     },
     {
       "region": "新加坡",
-      "result": "无重大区间新增；保留南洋理工大学10月15日申请开放提醒"
+      "result": "1项申请窗口开放节点：NTU AY2027国际学历本科申请于10月15日开放。"
     },
     {
       "region": "中国香港",
-      "result": "无重大政策新增；保留港中大、港大申请与招生活动节点，并列1条待核实讲座线索"
+      "result": "本次未检索到符合标准的重大区间新增；保留港中大11月12日提前轮和港科大11月25日指定申请通道提醒。"
     },
     {
       "region": "日本",
-      "result": "1项EJU会场信息更新已核实"
+      "result": "核实到JASSO第二回EJU报名统计、国内考务注意事项/受验票通知，以及立命馆大学奖学金指南更新。"
     },
     {
       "region": "新西兰",
-      "result": "未发现符合收录标准的重大区间新增"
+      "result": "本次未检索到符合时效与核实要求的新增资讯；10月7日公布的BNZ Funds Transfer Scheme安排列为持续适用提醒，不算本期新增。"
     },
     {
       "region": "中国国内/留学服务",
-      "result": "1项服务大厅临时维护通知已核实；不涉及认证标准变化"
+      "result": "本次未检索到符合时效与核实要求的新增资讯。"
     },
     {
       "region": "全球/跨国",
-      "result": "未发现符合收录标准的重大区间新增"
+      "result": "本次未检索到符合时效与核实要求的新增资讯。"
     }
   ],
-  "coverageNote": "本次按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类检索2026年10月6日至10月13日官方信息。区间内可核实新增以EJU会场更新及中国留服系统维护通知为主，均未夸大为政策改革。英国、新加坡和香港的重要申请日期单列为提醒；港中大10月13日线上讲座因详情页未能稳定读取，保留为待核实线索。"
+  "coverageNote": "执行日期已核实为2026年10月20日（北京时间）；统计区间为2026年10月13日至10月20日，检索截止时间为10月20日08:45。按美国、英国、澳大利亚、加拿大、新加坡、中国香港、日本、新西兰、中国国内/留学服务、全球/跨国分类进行中英文官方来源检索。本期仅收录5项可追溯的区间新增或重要后续；美国OPT提案的首次公布日为10月8日，故仅将10月16日高校解读作为区间内重要后续，不把提案本身包装成新政。其他地区未发现符合条件的新增时如实留空；近期申请和考试节点单列，未核实线索为空，不以旧闻凑数。",
+  "verificationLog": [
+    {
+      "title": "Optional Practical Training Fees; Proposed Rule",
+      "publisher": "U.S. Department of Homeland Security / U.S. Immigration and Customs Enforcement",
+      "publishedAt": "2026-10-08（背景规则，非本期首次发布）",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20660.htm",
+      "crossCheck": "https://ip.wsu.edu/october-16th-2026-immigration-advisory/",
+      "evidence": "官方联邦公报标明为提案，费用拟由SEVP认证学校缴纳，意见征集截止2026-11-09；WSU于2026-10-16说明提案尚未生效。"
+    },
+    {
+      "title": "2026年度日本留学试验（第2回）応募者数",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "2026-10-15",
+      "url": "https://www.jasso.go.jp/ryugaku/eju/about/data/applicants_examinees.html",
+      "evidence": "原始数据页标注更新日，并列出国内24,509、国外8,344、总计32,853。"
+    },
+    {
+      "title": "EJU第二回国内考生注意事项与受验票寄送通知",
+      "publisher": "日本学生支援机构（JASSO）",
+      "publishedAt": "2026-10-16",
+      "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/procedure/caution.html",
+      "crossCheck": "https://www.jasso.go.jp/ryugaku/eju/index.html",
+      "evidence": "注意事项页面列出考场证件原件要求和考试用品；官方EJU新闻列表标注10月16日受验票寄送通知。"
+    },
+    {
+      "title": "NTU undergraduate admissions: international qualifications",
+      "publisher": "Nanyang Technological University",
+      "publishedAt": "官网未标明单独发布日期；开放日为2026-10-15",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admissions",
+      "evidence": "官方招生页面列明AY2027国际学历申请于2026-10-15开放，具体窗口按学历类别区分。"
+    },
+    {
+      "title": "Application Guidelines for Ritsumeikan University Tuition Reduction and Scholarships",
+      "publisher": "Ritsumeikan University International Center",
+      "publishedAt": "2026-10-15（页面更新日期）",
+      "url": "https://global.support.ritsumei.ac.jp/hc/en-us/articles/42478423815571--Application-Guidelines-for-Ritsumeikan-University-Tuition-Reduction-and-Scholarships-Updated-on-October-15-2026",
+      "evidence": "官方页面标注更新日期，并说明2027学年学费减免制度尚未决定，2026秋季申请已结束。"
+    }
+  ]
 }
